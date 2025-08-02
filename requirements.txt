@@ -1,0 +1,6 @@
+# ml-service/requirements.txt
+Flask
+Flask-Cors
+pandas
+scikit-learn
+joblib
